@@ -78,7 +78,7 @@ a:after {
 /* Header Wrap */
 .header {
   background: #1CBCAD;
-  background: url(../images/aspen.jpg) no-repeat center top;
+  background: url(../images/background.jpg) no-repeat center top;
   padding-top:140px;
   text-align:center;
   background-attachment: relative;
@@ -100,7 +100,7 @@ a:after {
 .header h1 {
   font-size: 80px;
   color: white;
-  background: rgba(0,0,0,0.2);
+  
 }
 
 .header h3 {
