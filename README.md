@@ -1,6 +1,6 @@
 # mlshah45.github.io
 
-Hosting a website: www.shahmanthan.com
+Website: www.shahmanthan.com
 
 ##References
 
