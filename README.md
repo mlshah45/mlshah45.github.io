@@ -1,6 +1,10 @@
 # mlshah45.github.io
 
-Website: www.shahmanthan.com
+Repository to host webpage: www.shahmanthan.com
+
+## Technologies used
+
+* HTML, CSS, JavaScript, Jquery
 
 ## References
 
